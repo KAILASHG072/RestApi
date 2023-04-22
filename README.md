@@ -49,5 +49,5 @@ For example, to create a new customer, you can send a POST request to http://loc
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
-[![GitHub issues](https://img.shields.io/github/issues/{KAILASHG072}/{RestApi})] (https://github.com/{KAILASHG072}/{RestAPI}/issues)
+[![GitHub issues](https://img.shields.io/github/issues/{KAILASHG072}/{RestApi})] (https://github.com/{KAILASHG072}/{RestApi}/issues)
 
